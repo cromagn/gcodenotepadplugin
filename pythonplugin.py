@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
     Formatter - Demo
-
+    
+    G1\s+X-3\.200\s+Y49\.931(.*\R){95}
+ 
     Format column based document on user choice
 
     Usage:
